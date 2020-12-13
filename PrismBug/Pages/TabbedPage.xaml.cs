@@ -5,7 +5,7 @@ using Xamarin.Forms;
 
 namespace PrismBug.Pages
 {
-    public partial class TabbedPage : ContentPage
+    public partial class TabbedPage : Xamarin.Forms.TabbedPage
     {
         public TabbedPage()
         {
